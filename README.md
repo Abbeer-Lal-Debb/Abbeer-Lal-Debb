@@ -23,3 +23,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abbeer-lal-debb&show_icons=true&locale=en&layout=compact" alt="abbeer-lal-debb" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abbeer-lal-debb&show_icons=true&locale=en" alt="abbeer-lal-debb" /></p>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Abbeer-Lal-Debb/count.svg?"  />
+</div>
