@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abbeer Lal Debb</h1>
 <h3 align="center">An Aspiring Software Developer and a passionate Web Developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abbeer-lal-debb&label=Profile%20views&color=0e75b6&style=flat" alt="abbeer-lal-debb" /> </p>
-
 - 🔭 I’m currently working at **KPMG India, as a ServiceNow Developer/Tester**
 
 - 📫 How to reach me **abbeerlal.debb@gmail.com**
@@ -23,4 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abbeer-lal-debb&show_icons=true&locale=en&layout=compact" alt="abbeer-lal-debb" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abbeer-lal-debb&show_icons=true&locale=en" alt="abbeer-lal-debb" /></p>
-
